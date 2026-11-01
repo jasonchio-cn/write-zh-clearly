@@ -1,0 +1,20 @@
+{
+  "name": "write-zh-clearly",
+  "owner": {
+    "name": "承坤"
+  },
+  "plugins": [
+    {
+      "name": "write-zh-clearly",
+      "source": "./",
+      "version": "0.1.3",
+      "description": "优化中文内容的取舍、组织和表达。",
+      "category": "Productivity",
+      "tags": [
+        "chinese",
+        "writing",
+        "editing"
+      ]
+    }
+  ]
+}

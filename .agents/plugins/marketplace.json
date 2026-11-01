@@ -1,0 +1,20 @@
+{
+  "name": "write-zh-clearly",
+  "interface": {
+    "displayName": "write-zh-clearly"
+  },
+  "plugins": [
+    {
+      "name": "write-zh-clearly",
+      "source": {
+        "source": "local",
+        "path": "./"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_USE"
+      },
+      "category": "Productivity"
+    }
+  ]
+}

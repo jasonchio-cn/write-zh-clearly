@@ -1,0 +1,17 @@
+{
+  "name": "write-zh-clearly",
+  "version": "0.1.3",
+  "displayName": "中文表达优化",
+  "description": "优化中文内容的取舍、组织和表达。",
+  "author": {
+    "name": "承坤"
+  },
+  "repository": "https://github.com/jasonchio-cn/write-zh-clearly",
+  "license": "MIT",
+  "keywords": [
+    "chinese",
+    "writing",
+    "editing"
+  ],
+  "skills": "./skills/"
+}
