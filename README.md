@@ -24,6 +24,18 @@ qodercli plugins install write-zh-clearly@write-zh-clearly
 
 Qoder 安装后重启 CLI 或运行 `/plugins reload`。如果已通过其他方式安装同名 Skill，请检查已有部署，避免重复加载。
 
+更新插件：
+
+```bash
+# Codex
+codex plugin marketplace upgrade write-zh-clearly
+codex plugin add write-zh-clearly@write-zh-clearly
+
+# Qoder CLI
+qodercli plugins marketplace update write-zh-clearly
+qodercli plugins update write-zh-clearly@write-zh-clearly
+```
+
 ## 使用
 
 直接提出需求并提供原文，例如：“帮我把这段说明写得更清楚，保留所有条件和限制。”
